@@ -1,0 +1,74 @@
+.heading {
+  float: center;
+}
+
+#logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  display: inline-block;
+}
+
+.branch-buttons{
+  background-color: pink;
+}
+
+#login {
+  padding: 20px;
+  css-float: center;
+  border-style: solid;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+#register {
+  padding: 20px;
+  border-style: solid;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.book {
+  padding: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.book-img {
+  display:inline-block;
+}
+
+.book-img{
+  swidth: 26.7px;
+  sheight: 40px;
+}
+
+.book-info {
+  margin-left: 10px;
+  display: inline-block;
+}
+
+#avatar {
+  display:inline-block;
+  float: right;
+}
+
+#avatar-img {
+  width: 60px;
+  height:60px;
+  border-radius: 30px;
+}
+
+.heading {
+  color: white;
+}
+
+body{
+  //background-image: url('bg.jpg');
+}
+
+#itcs-table {
+  float: center;
+  color: blue;
+}
