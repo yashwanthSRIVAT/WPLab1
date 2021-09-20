@@ -11,6 +11,7 @@
 
 .branch-buttons{
   background-color: pink;
+  color: white;
 }
 
 #login {
@@ -54,6 +55,7 @@
   float: right;
 }
 
+
 #avatar-img {
   width: 60px;
   height:60px;
@@ -71,4 +73,20 @@ body{
 #itcs-table {
   float: center;
   color: blue;
+}
+
+#home-logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+#login-button {
+    background-color: #90EE90;
+    border-radius: 10px;
+    color: white;
+}
+
+#branches-body {
+  background-image: url('bg.jpeg');
 }
